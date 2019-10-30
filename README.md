@@ -27,16 +27,16 @@ Parts of our codes are based on the HDI function from Kruschke, J. K. (2014). Do
 A Tutorial with R, JAGS, and Stan. 2nd Edition. Academic Press / Elsevier. We redistribute this function for ease of use, though the original function can be found here: https://sites.google.com/site/doingbayesiandataanalysis/software-installation
 
 
-### Input data
+## Input data
 
 ... can be found here: add Zenodo
 
 
-### References
+## References
 
 Veh, G., Korup, O. & A. Walz: Hazard from Himalayan glacier lake outburst floods. In review.
 
-# Contact
+## Contact
 
 Georg Veh
 
