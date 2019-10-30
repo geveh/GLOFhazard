@@ -7,32 +7,32 @@ RStudio (tps://rstudio.com) on your machine. The comments within the scripts pro
 and usage of functions. 
 
 
-# Scripts
+## Scripts
 
-## bayes_lm_piecewise_regression_stan.R
+### bayes_lm_piecewise_regression_stan.R
 
 Bayesian piecewise regression model to learn peak discharge Qp from eta, the product of flood volume and the breach rate. Written in R.
 
-## lm_piecewise_const.stan
+### lm_piecewise_const.stan
 
 This model calls a script to learn the posterior distributions of the model parameters, written in STAN.
 
-## R_Script_Hazard_from_GLOFs_PNAS_supp.R
+### R_Script_Hazard_from_GLOFs_PNAS_supp.R
 
 Script to estimate regional GLOF hazard from empirical GLOF rates and predicted GLOF volumes and discharges. Contains all commands to reproduce the figures from the associated manuscript.
 
-## HDIofMCMC.R
+### HDIofMCMC.R
 
 Parts of our codes are based on the HDI function from Kruschke, J. K. (2014). Doing Bayesian Data Analysis: 
 A Tutorial with R, JAGS, and Stan. 2nd Edition. Academic Press / Elsevier. We redistribute this function for ease of use, though the original function can be found here: https://sites.google.com/site/doingbayesiandataanalysis/software-installation
 
 
-# Input data
+### Input data
 
 ... can be found here: add Zenodo
 
 
-# References
+### References
 
 Veh, G., Korup, O. & A. Walz: Hazard from Himalayan glacier lake outburst floods. In review.
 
