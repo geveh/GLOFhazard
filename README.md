@@ -17,6 +17,10 @@ Bayesian piecewise regression model to learn peak discharge Qp from eta, the pro
 
 This model calls a script to learn the posterior distributions of the model parameters, written in STAN.
 
+### R_Script_lake_area_vs_max_depth.R
+
+Robust regression model to estimate the maximum depth of Himalayan glacier lakes from glacier lake area.
+
 ### R_Script_Hazard_from_GLOFs_PNAS_supp.R
 
 Script to estimate regional GLOF hazard from empirical GLOF rates and predicted GLOF volumes and discharges. Contains all commands to reproduce the figures from the associated manuscript.
