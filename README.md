@@ -10,12 +10,15 @@ and usage of functions.
 # Scripts
 
 bayes_lm_piecewise_regression_stan.R
+
 Bayesian piecewise regression model to learn peak discharge Qp from eta, the product of flood volume and the breach rate. Written in R.
 
 lm_piecewise_const.stan
+
 This model calls a script to learn the posterior distributions of the model parameters, written in STAN.
 
 R_Script_Hazard_from_GLOFs_PNAS_supp.R
+
 Script to estimate regional GLOF hazard from empirical GLOF rates and predicted GLOF volumes and discharges. Contains all commands 
 to reproduce the figures from the associated manuscript.
 
@@ -32,7 +35,11 @@ Veh, G., Korup, O. & A. Walz: Hazard from Himalayan glacier lake outburst floods
 # Contact
 
 Georg Veh
+
 Working group on natural hazards
+
 University of Potsdam
-georg.veh@uni-potsdam
+
+georg.veh@uni-potsdam.de
+
 https://www.uni-potsdam.de/en/umwelt/research/natural-hazards.html
