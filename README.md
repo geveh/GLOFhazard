@@ -38,7 +38,7 @@ A Tutorial with R, JAGS, and Stan. 2nd Edition. Academic Press / Elsevier. We re
 
 ## References
 
-Veh, G., Korup, O. & A. Walz: Hazard from Himalayan glacier lake outburst floods. PNAS (accepted)
+Veh, G., Korup, O. & A. Walz: Hazard from Himalayan glacier lake outburst floods. PNAS *(accepted)*.
 
 ## Contact
 
