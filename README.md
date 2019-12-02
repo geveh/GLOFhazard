@@ -3,7 +3,7 @@
 This repository contains the source codes to estimate GLOF peak discharges from the Himalayan lake-size distribution, 
 and to estimate return periods of GLOF volumes and peak discharges in the entire Himalayas and seven subregions.
 A mandatory prerequisite to run the scripts is to install R (https://www.r-project.org/) and 
-RStudio (tps://rstudio.com) on your machine. The comments within the scripts provide further details on model dependencies
+RStudio (https://rstudio.com) on your machine. The comments within the scripts provide further details on model dependencies
 and usage of functions. 
 
 
@@ -33,7 +33,7 @@ A Tutorial with R, JAGS, and Stan. 2nd Edition. Academic Press / Elsevier. We re
 
 ## Input data
 
-... can be found here: add Zenodo
+... can be found here: https://doi.org/10.5281/zenodo.3523213
 
 
 ## References
