@@ -50,4 +50,4 @@ University of Potsdam
 
 georg.veh@uni-potsdam.de
 
-https://www.uni-potsdam.de/en/umwelt/research/natural-hazards.html
+https://www.uni-potsdam.de/de/umwelt/forschung/ag-naturgefahren.html
