@@ -38,16 +38,14 @@ A Tutorial with R, JAGS, and Stan. 2nd Edition. Academic Press / Elsevier. We re
 
 ## References
 
-Veh, G., Korup, O. & A. Walz: Hazard from Himalayan glacier lake outburst floods. PNAS *(accepted)*.
+Veh, G., Korup, O., & Walz, A. (2020). Hazard from Himalayan glacier lake outburst floods. Proceedings of the National Academy of Sciences, 117(2), 907-912.
 
 ## Contact
 
 Georg Veh
 
 Working group on natural hazards
-
 University of Potsdam
-
 georg.veh@uni-potsdam.de
 
 https://www.uni-potsdam.de/de/umwelt/forschung/ag-naturgefahren.html
