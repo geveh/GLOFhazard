@@ -45,7 +45,9 @@ Veh, G., Korup, O., & Walz, A. (2020). Hazard from Himalayan glacier lake outbur
 Georg Veh
 
 Working group on natural hazards
+
 University of Potsdam
+
 georg.veh@uni-potsdam.de
 
 https://www.uni-potsdam.de/de/umwelt/forschung/ag-naturgefahren.html
